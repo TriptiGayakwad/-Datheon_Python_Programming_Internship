@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Portfolio auto-generated log (optional - remove if you want to track it)
+task 2/portfolio_summary.csv
+
+# Organizer auto-generated log
+task 3/organizer_log.txt
+task 3/_demo_folder/
+
+# Task 1 pycache
+task 1/__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

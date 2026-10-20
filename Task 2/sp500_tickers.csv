@@ -1,0 +1,52 @@
+Symbol,Company,Sector,Industry,Current_Price,Market_Cap_B
+AAPL,Apple Inc.,Technology,Consumer Electronics,189.30,2950.00
+MSFT,Microsoft Corporation,Technology,Software,415.50,3090.00
+GOOGL,Alphabet Inc.,Technology,Internet Services,175.80,2200.00
+AMZN,Amazon.com Inc.,Consumer Cyclical,E-Commerce,185.20,1920.00
+NVDA,NVIDIA Corporation,Technology,Semiconductors,875.40,2160.00
+TSLA,Tesla Inc.,Consumer Cyclical,Electric Vehicles,248.50,792.00
+META,Meta Platforms Inc.,Technology,Social Media,505.60,1290.00
+BRK.B,Berkshire Hathaway,Financials,Diversified Financials,395.20,864.00
+JPM,JPMorgan Chase,Financials,Banking,198.75,575.00
+V,Visa Inc.,Financials,Credit Services,275.30,563.00
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers,152.40,366.00
+WMT,Walmart Inc.,Consumer Defensive,Retail,68.90,556.00
+PG,Procter & Gamble,Consumer Defensive,Household Products,162.50,381.00
+MA,Mastercard Inc.,Financials,Credit Services,468.20,435.00
+HD,Home Depot Inc.,Consumer Cyclical,Home Improvement,355.80,354.00
+CVX,Chevron Corporation,Energy,Oil & Gas,158.30,290.00
+MRK,Merck & Co.,Healthcare,Drug Manufacturers,127.60,323.00
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers,172.40,304.00
+PEP,PepsiCo Inc.,Consumer Defensive,Beverages,171.20,234.00
+KO,Coca-Cola Company,Consumer Defensive,Beverages,60.45,260.00
+AVGO,Broadcom Inc.,Technology,Semiconductors,1420.00,658.00
+COST,Costco Wholesale,Consumer Defensive,Retail,875.30,387.00
+MCD,McDonald's Corp.,Consumer Cyclical,Restaurants,295.60,215.00
+NFLX,Netflix Inc.,Communication,Streaming,628.40,270.00
+ADBE,Adobe Inc.,Technology,Software,485.20,214.00
+CRM,Salesforce Inc.,Technology,Software,315.70,306.00
+CSCO,Cisco Systems,Technology,Networking,48.30,196.00
+ACN,Accenture PLC,Technology,IT Services,342.80,215.00
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers,28.15,159.00
+LLY,Eli Lilly,Healthcare,Drug Manufacturers,785.60,744.00
+TMO,Thermo Fisher Scientific,Healthcare,Medical Devices,562.40,216.00
+DHR,Danaher Corporation,Healthcare,Medical Devices,248.90,182.00
+ABT,Abbott Laboratories,Healthcare,Medical Devices,112.35,194.00
+NKE,Nike Inc.,Consumer Cyclical,Footwear,94.20,141.00
+DIS,Walt Disney Company,Communication,Entertainment,112.80,205.00
+INTC,Intel Corporation,Technology,Semiconductors,42.60,180.00
+AMD,Advanced Micro Devices,Technology,Semiconductors,168.90,273.00
+QCOM,Qualcomm Inc.,Technology,Semiconductors,168.40,188.00
+TXN,Texas Instruments,Technology,Semiconductors,178.50,163.00
+NEE,NextEra Energy,Utilities,Electric Utilities,72.30,147.00
+UNH,UnitedHealth Group,Healthcare,Health Insurance,518.90,479.00
+RTX,RTX Corporation,Industrials,Aerospace & Defense,103.50,139.00
+GE,GE Aerospace,Industrials,Aerospace & Defense,162.70,176.00
+CAT,Caterpillar Inc.,Industrials,Heavy Machinery,348.20,179.00
+BA,Boeing Company,Industrials,Aerospace & Defense,215.40,130.00
+IBM,IBM Corporation,Technology,IT Services,192.30,175.00
+ORCL,Oracle Corporation,Technology,Software,125.60,347.00
+PYPL,PayPal Holdings,Financials,Digital Payments,68.40,73.00
+UBER,Uber Technologies,Technology,Ride-Sharing,77.30,159.00
+SPOT,Spotify Technology,Communication,Music Streaming,318.90,61.00
+SQ,Block Inc.,Financials,Digital Payments,78.50,47.00
